@@ -1,2 +1,3 @@
 # Ćwiczenia 1 - APBD
 Opis projektu w trakcie tworzenia...
+Testowanie operacji Rebase
