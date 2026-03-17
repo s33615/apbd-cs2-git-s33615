@@ -22,3 +22,8 @@ public int CalculateMax(int[] values)
     }
     return max;
 }
+
+public int CalculateMin(int[] values)
+{
+    return 0; 
+}
