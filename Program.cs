@@ -5,6 +5,6 @@ string input = Console.ReadLine();
 
 if (string.IsNullOrWhiteSpace(input))
 {
-    Console.WriteLine("Błąd: Nie wprowadzono żadnych danych.");
+    Console.WriteLine("BŁĄD KRYTYCZNY: Puste wejście!");
     return;
 }
