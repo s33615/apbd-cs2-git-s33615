@@ -5,6 +5,6 @@ string input = Console.ReadLine();
 
 if (string.IsNullOrWhiteSpace(input))
 {
-    Console.WriteLine("Błąd: Nie wprowadzono żadnych danych.");
+    Console.WriteLine("Uwaga: Musisz podać jakieś liczby.");
     return;
 }
