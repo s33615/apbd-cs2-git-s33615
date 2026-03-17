@@ -25,5 +25,10 @@ public int CalculateMax(int[] values)
 
 public int CalculateMin(int[] values)
 {
-    return 0; 
+    int min = values[0];
+    foreach (int val in values)
+    {
+        if (val < min) min = val;
+    }
+    return min;
 }
